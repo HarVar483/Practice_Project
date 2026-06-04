@@ -1,2 +1,3 @@
 hello every one 
-kaise hai app log
+kaise hai app log 
+ye mai check kar raha ho ki sahi se kaam kar raha hi ki nahi
